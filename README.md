@@ -1,7 +1,4 @@
-# Personal-Finance-Dashboard
 # Personal Finance Dashboard
-
-## Overview
 
 This repository contains a comprehensive personal finance data analytics project developed in Power BI. The project focuses on analyzing income, savings, and expenses to provide valuable insights into financial patterns.
 
